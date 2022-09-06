@@ -1,0 +1,11 @@
+﻿  Bfs.cpp
+i:\代码刷题\bfs\bfs\codec.h(362): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\codec.h(416): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\codec.h(417): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\codec.h(423): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\codec.h(442): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\codec.h(443): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\codec.h(449): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\codec.h(471): warning C4018: “<”: 有符号/无符号不匹配
+i:\代码刷题\bfs\bfs\bfs.cpp(266): warning C4101: “ob1”: 未引用的局部变量
+  Bfs.vcxproj -> I:\代码刷题\Bfs\Debug\Bfs.exe
